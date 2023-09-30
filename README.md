@@ -15,3 +15,5 @@ To merge branches together: git merge ~branch name~
 To add a remote repository: git remote add ~remote name~ ~https://yourremoteurl~
 To pull changes from a remote repository: git pull ~remote name~ ~branch name~
 To push changes to a remote repository: git push ~remote name~ ~branch name~
+
+This is  on the branch named new-branch
